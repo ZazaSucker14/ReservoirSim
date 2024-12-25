@@ -1,0 +1,3 @@
+permeability,viscosity,flow_rate,length,pressure_drop
+100,1.2,50,200,120.0
+150,1.5,70,250,175.0
