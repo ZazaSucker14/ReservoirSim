@@ -19,10 +19,3 @@ Reservoir Fluid Simulation adalah program untuk mensimulasikan penurunan tekanan
    ```bash
    python main.py
    ```
-
-## Struktur Folder
-```
-ReservoirFluidSimulation/
-├── data/
-├── src/
-└── main.py
